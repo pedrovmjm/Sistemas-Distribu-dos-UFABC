@@ -1,2 +1,2 @@
-# Sistemas-Distribu-dos-UFABC
+# Sistemas-Distribuidos-UFABC
 Sistemas Distribuídos UFABC
